@@ -1,0 +1,13 @@
+{
+  "local_paths": [
+    "./first.txt",
+    "./second.txt"
+  ],
+  "server_paths": [
+    "bye/3.txt",
+    "bye/2.txt"
+  ],
+  "server_name": "localhost",
+  "user_name": "Andrei",
+  "password": ""
+}
